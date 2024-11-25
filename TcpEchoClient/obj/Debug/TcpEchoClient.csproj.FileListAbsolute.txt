@@ -1,0 +1,7 @@
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TcpEchoClient\bin\Debug\TcpEchoClient.exe.config
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TcpEchoClient\bin\Debug\TcpEchoClient.exe
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TcpEchoClient\bin\Debug\TcpEchoClient.pdb
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TcpEchoClient\obj\Debug\TcpEchoClient.csproj.AssemblyReference.cache
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TcpEchoClient\obj\Debug\TcpEchoClient.csproj.CoreCompileInputs.cache
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TcpEchoClient\obj\Debug\TcpEchoClient.exe
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TcpEchoClient\obj\Debug\TcpEchoClient.pdb

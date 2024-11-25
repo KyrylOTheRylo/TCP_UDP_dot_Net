@@ -1,0 +1,7 @@
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TspServer\obj\Debug\TspServer.csproj.AssemblyReference.cache
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TspServer\obj\Debug\TspServer.csproj.CoreCompileInputs.cache
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TspServer\bin\Debug\TspServer.exe.config
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TspServer\bin\Debug\TspServer.exe
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TspServer\bin\Debug\TspServer.pdb
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TspServer\obj\Debug\TspServer.exe
+D:\webprojects\tcp_udp_test_NET\ConsoleApp1\TspServer\obj\Debug\TspServer.pdb
